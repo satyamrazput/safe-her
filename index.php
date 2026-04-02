@@ -1210,7 +1210,7 @@ include "db.php";
       </div>
     </div>
     <div class="text-center small mt-4">
-      © <?php echo date("Y"); ?> SafeHer. All Rights Reserved. Emergency: Dial 112.
+      © <?php echo date("Y"); ?> SafeHer. All Rights Reserved. Emergency: Dial  112.
     </div>
   </div>
 </footer>
